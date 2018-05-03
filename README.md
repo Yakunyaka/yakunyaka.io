@@ -1,0 +1,2 @@
+# yakunyaka.io
+Blog
